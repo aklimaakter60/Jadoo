@@ -1,0 +1,575 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start*/
+.menu ul li a {
+    padding: 5px 0px !important;
+}
+.btn_sn {
+    margin-left: 0px;
+}
+.lang {
+    background-color:white;
+    margin-left: 0px;
+    width: 19%;
+    border: none;
+    padding-left: 0;
+}
+/*header end*/ 
+/*banner start*/
+.b_img {
+    margin: 0;
+}
+.b_text {
+    margin: 30px 0;
+    text-align: center;
+}
+.b_text h5 {
+    font-size: 18px;
+}
+.b_text h1 {
+font-size: 40px;
+line-height: 50px;
+}
+.btn_f {
+    margin: 10px 0;
+    padding: 10px 15px;
+}
+.btn_demo img {
+    margin: -5px -10px -34px -30px;
+}
+/*banner end*/
+/*service section start*/
+.t_b {
+     padding: 60px 0 20px;
+}
+.sr_text h2 {
+    font-size: 25px;
+}
+.sr_item {
+    margin: 25px 0 0;
+}
+.sr_item p {
+    margin: 0 55px;
+}
+/*service section end*/
+/*destination section start*/
+
+.top_text span {
+    margin: 0px 25px 0 15px;
+}
+/*destination section end*/
+/*trip section start*/
+.trip_tx {
+    text-align: center;
+}
+.sr_text h2 {
+    margin-right: 0;
+}
+.trip_img {
+    margin: 10px 125px 20px 125px;
+}
+.trip_p {
+    text-align: center;
+    margin: 0;
+}
+.trip_p p {
+    margin-right: 0;
+}
+.crd{
+    width: 250px;
+    height: 350px;
+    margin: 100px 15px 95px 15px;
+}
+.crd_img {
+    margin: 15px;
+}
+.crd_text {
+    margin-left: 15px;
+}
+.crd_one {
+    margin: 30px 0 0 15px;
+}
+.heart_n {
+    margin-left: 20px;
+}
+.small_div {
+    width: 200px;
+    height: 90px;
+    right: 25px;
+    bottom: -68px;
+}
+.small_text h5 {
+    font-size: 16px;
+}
+
+/*trip section end*/
+/*testimonial section start*/
+.c_ind {
+    top: 535px;
+    left: 0;
+}
+.ta_text {
+    text-align: center;
+}
+.ta_text h2 {
+    font-size: 40px;
+}
+.ta_img {
+    margin: 0 0 0 30px;
+}
+.text_1 {
+    margin: 64px 0px 0px 60px;
+    padding: 135px 0 0 5px;
+    width: 200px;
+    height: 200px;
+}
+.text_2 {
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    top: -75px;
+    right: -2px;
+}
+.text_2 h6 {
+    padding-top: 15px;
+}
+/*testimonial section end*/
+
+
+/*brand name start*/
+.br_img ul li a {
+    margin: 0;
+}
+/*brand name end*/
+/*newsletter section start*/
+.new_text {
+    height: 325px;
+    border-radius:0;
+}
+.new_text h3 {
+    padding: 30px 0;
+    font-size: 16px;
+    line-height: 25px;
+}
+.new_form {
+    padding: 0 ;
+}
+.news_img {
+    display: none;
+}
+.s_box {
+    width: 298px;
+    height: 40px;
+    padding: 10px 3px 10px 15px;
+}
+.s_box input {
+    width: 245px;
+    height: 20px;
+}
+.btn_new {
+    width: 130px;
+    height: 40px;
+    top: 60px;
+    right: 70px;
+
+}
+/*newsletter section end*/
+/*footer section start*/
+.top_one {
+    text-align: center;
+}
+.top_two {
+    text-align: center;
+}
+.top_two ul li {
+    padding-bottom: 10px;
+}
+.icon i {
+    margin: 0 6px 0;
+}
+.top_lo h6 {
+    font-size: 18px;
+}
+.app_img a img{
+    margin-bottom: 10px;
+}
+
+/*footer section end*/
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.menu ul li a {
+    padding: 5px 0px !important;
+}
+.btn_sn {
+    margin-left: 0px;
+}
+.lang {
+    background-color:white;
+    margin-left: 0px;
+    width: 10%;
+    border: none;
+    padding-left: 0;
+}
+/*header end*/ 
+/*banner start*/
+.b_img {
+    margin: 0 50px 0 60px;
+}
+.b_text {
+    margin: 40px 0;
+    text-align: center;
+}
+.b_text h1 {
+    font-size: 61px;
+    line-height: 70px;
+}
+/*banner end*/
+/*service section start*/
+.t_b {
+    padding: 60px 0 40px;
+}
+.sr_text h2 {
+    font-size: 40px;
+}
+.sr_item p {
+    margin: 0 40px;
+}
+/*service section end*/
+/*destination section start*/
+.d_item {
+    margin: 70px 70px;
+}
+.top_text {
+    padding: 35px 0 35px;
+}
+/*destination section end*/
+/*trip section start*/
+.trip_tx {
+    text-align: center;
+}
+.trip_tx h2 {
+    margin-bottom: 50px;
+}
+.trip_img {
+    margin-left: 25px;
+    margin-bottom: 70px;
+}
+.trip_p {
+    margin: 0 45px 0 0;
+}
+.crd{
+    margin: 120px 42px 40px 50px;
+}
+/*trip section end*/
+
+/*testimonial section start*/
+.c_ind {
+    top: 526px;
+    left: 0;
+}
+.ta_text {
+    text-align: center;
+}
+.ta_text h2 {
+    font-size: 40px;
+}
+.text_1 {
+    margin: 64px 0px 0px 60px;
+    padding: 130px 0 0 5px;
+    width: 425px;
+    height: 200px;
+}
+.text_2 {
+    padding: 30px;
+    width: 425px;
+    height: 200px;
+    top: -88px;
+    right: 30px;
+}
+.text_2 h6 {
+    padding-top: 15px;
+}
+/*testimonial section end*/
+
+
+/*brand name start*/
+.br_img ul li a {
+    margin: 0;
+}
+/*brand name end*/
+/*newsletter section start*/
+.new_text {
+    height: 325px;
+}
+.new_text h3 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.new_form {
+    padding: 0 ;
+}
+.news_img {
+    display: none;
+}
+.s_box {
+    width: 350px;
+    height: 50px;
+    padding: 10px 3px 15px 15px;
+}
+.s_box input {
+    width: 295px;
+    height: 33px;
+}
+.btn_new {
+    width: 150px;
+    height: 50px;
+    right: 0;
+
+}
+/*newsletter section end*/
+/*footer section start*/
+.top_one {
+    text-align: center;
+}
+.top_two {
+    text-align: center;
+}
+.top_two ul li {
+    padding-bottom: 10px;
+}
+.icon i {
+    margin: 0 6px 0;
+}
+.top_lo h6 {
+    font-size: 18px;
+}
+.app_img a img{
+    margin-bottom: 10px;
+}
+
+/*footer section end*/
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menu ul li a {
+    padding: 5px 0px !important;
+}
+.btn_sn {
+    margin-left: 0px;
+}
+.lang {
+    background-color:white;
+    margin-left: 0px;
+    width: 8%;
+    border: none;
+    padding-left: 0;
+}
+/*header end*/
+/*banner start*/
+.b_img {
+    margin: 0 80px 0 90px;
+}
+.b_text {
+    margin-top: 50px;
+    text-align: center;
+}
+.b_text h1 {
+    font-size: 65px;
+    line-height: 85px;
+}
+/*banner end*/
+/*service section start*/
+.t_b {
+    padding: 80px 0 50px;
+}
+.sr_text h2 {
+    font-size: 45px;
+}
+.sr_item p {
+    margin: 0 75px;
+}
+/*service section end*/
+/*destination section start*/
+.top_text {
+    padding: 30px 0 35px;
+    font-size: 15px;
+}
+
+.top_text span {
+    margin: 0px 16px 0 -43px;
+}
+/*destination section end*/
+/*trip section start*/
+.trip_tx {
+   text-align: center;
+}
+.trip_tx h2 {
+    margin-bottom:50px;
+}
+.trip_img {
+    margin-left: 25px;
+    margin-bottom: 70px;
+}
+.trip_p {
+    margin: 0 100px 0 0;
+}
+.crd{
+    margin: 120px 42px 50px 120px;
+}
+/*trip section end*/
+/*testimonial section start*/
+.c_ind {
+    top: 255px;
+    left: -615px;
+}
+.ta_text h2 {
+    font-size: 40px;
+}
+.text_1 {
+    margin: 70px 0px 0px 35px;
+    padding: 130px 0 0 5px;
+    width: 295px;
+    height: 210px;
+}
+.text_2 {
+    padding: 25px;
+    width: 295px;
+    height: 210px;
+    top: -88px;
+    right: 15px;
+}
+.text_2 h6 {
+    padding-top: 15px;
+}
+/*testimonial section end*/
+
+
+/*brand name start*/
+.br_img ul li a {
+    margin: 0;
+}
+/*brand name end*/
+/*newsletter section start*/
+.new_text h3 {
+    font-size: 25px;
+    line-height: 45px;
+}
+.new_form {
+    padding: 0 0 0 80px;
+}
+.news_img {
+    top: -258px;
+}
+.s_box {
+    width: 370px;
+    height: 55px;
+    padding: 10px 3px 15px 15px;
+}
+.s_box input {
+    width: 320px;
+    height: 33px;
+}
+.btn_new {
+    width: 160px;
+    height: 55px;
+    right: 70px;
+
+}
+/*newsletter section end*/
+/*footer section start*/
+.top_two ul li {
+    padding-bottom: 10px;
+}
+.icon i {
+    margin: 0 6px 0;
+}
+.top_lo h6 {
+    font-size: 18px;
+}
+.app_img a img{
+    margin-bottom: 10px;
+}
+
+/*footer section end*/
+
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*banner start*/
+.b_text h1 {
+    font-size: 65px;
+    line-height: 80px;
+}
+/*banner end*/
+/*service section start*/
+.t_b {
+    padding: 100px 0 60px;
+}
+.sr_item p {
+    margin: 0 28px;
+}
+/*service section end*/
+/*destination section start*/
+.top_text span {
+    margin: 0px 25px 0 18px;
+}
+/*destination section end*/
+/*trip section start*/
+.trip_tx h2 {
+    margin: 20px 0px 30px 0;
+}
+.small_div {
+    width: 245px;
+    height: 120px;
+    right: -64px;
+}
+/*trip section end*/
+
+/*testimonial section start*/
+.c_ind {
+    top: 260px;
+    left: -855px;
+}
+/*testimonial section end*/
+
+
+/*brand name start*/
+.br_img ul li a {
+    margin: 0;
+}
+/*brand name end*/
+/*newsletter section start*/
+.new_form {
+    padding: 0 0 0 140px;
+}
+.btn_new {
+    right: 170px;
+}
+/*newsletter section end*/
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px)  and (max-width: 1399.98px) { 
+ }
+ /* Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+
+/*newsletter section start*/
+.new_text h3 {
+    padding: 70px 80px;
+}
+.new_form {
+    padding: 0 0 0 330px;
+}
+.btn_new {
+    right: 330px;
+}
+ /*newsletter section end*/
+ }
